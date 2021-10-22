@@ -31,7 +31,7 @@ params:
   # home
   disable_home: false
   profile_image: "/images/profile.png"
-  name: "kurna vebyyanti"
+  name: "Kurnia Vebyyanti"
   namecolor: ffc107
   profession: "student"
   github: "https://github.com"
@@ -85,21 +85,21 @@ params:
   # Education
   disable_education: false
   education:
-    - degree: "B.tech"
-      branch: "Information Technology"
-      university: "Example university"
-      startedyear: "2013"
-      graduation: "2018"
-    - degree: "Degree"
-      branch: "Branch"
-      university: "Example university"
-      startedyear: "year"
-      graduation: "year"
-    - degree: "Degree"
-      branch: "Branch"
-      university: "Example university"
-      startedyear: "year"
-      graduation: "year"
+    - degree: "SD"
+      branch: "Sumberjati"
+      university: "SDN Sumberjati 03"
+      startedyear: "2010"
+      graduation: "2016"
+    - degree: "SMP"
+      branch: "Tempeh"
+      university: "SMPN 01 Tempeh"
+      startedyear: "2016"
+      graduation: "2019"
+    - degree: "SMK"
+      branch: "Pasirian"
+      university: "SMKN Pasirian"
+      startedyear: "2019"
+      graduation: "-"
 
   # Projects
   disable_projects: false
